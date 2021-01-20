@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_address: MyString
+  destination_address: MyString
+  price: 9.99
+  date: 2021-01-16
+
+two:
+  start_address: MyString
+  destination_address: MyString
+  price: 9.99
+  date: 2021-01-16
